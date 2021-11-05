@@ -1,0 +1,29 @@
+body {
+  color:rgb(255, 0, 0) ;
+  background-color: lime ;
+  text-align: center;
+}
+
+.header_div {
+  background-color: rgb(238, 255, 0);
+  color: rgb(255, 255, 240);
+}
+
+.header_div p {
+  color: goldenrod;
+  font-size: 10px;
+}
+
+button {
+  color: rebeccapurple;
+  width: 250px;
+  padding: 10%;
+}
+
+.copy_right_footer {
+  position: fixed;
+  background-color: rgb(255, 152, 16);
+  width: 100%;
+  bottom: 0%;
+  text-align: center;
+}
